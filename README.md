@@ -1,2 +1,2 @@
-# grading_calculator
+#sample python code
 try
