@@ -1,0 +1,9 @@
+while True:
+ Pass = input ("ENTER YOUR PASS :")
+ if len(Pass) <= 10:
+    print ("Your pass is weak!")
+ else:
+   print ("CONGRATS! WELCOME TO MY LIFE!")
+   break
+   
+ 
